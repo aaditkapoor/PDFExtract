@@ -18,6 +18,7 @@ A Go Command Line App to get all the source URLS from an arxiv pdf.
 - To add recommendation support.
 - Ability to download code
 - Web interface
+- Docker support
 
 # LICENSE
 Copyright 2020 Aadit Kapoor
